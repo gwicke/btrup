@@ -1,0 +1,10 @@
+[package]
+name = "btrup"
+version = "0.1.0"
+authors = ["Gabriel Wicke <gwicke@wikimedia.org>"]
+
+[dependencies]
+time = '*'
+docopt = "*"
+docopt_macros = "*"
+rustc-serialize = "*"
