@@ -2,6 +2,9 @@
 name = "btrup"
 version = "0.1.0"
 authors = ["Gabriel Wicke <gwicke@wikimedia.org>"]
+description = """
+Simple utility to perform BTRFS-based backups to an external disk"""
+license = "Apache-2.0"
 
 [dependencies]
 time = '*'
